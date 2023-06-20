@@ -1,6 +1,6 @@
 # Astro Flowbite
 
-Astro framework with Tailwind for styling and Flowbite for components, integrated with Netlify CMS to manage content.  
+Astro framework with Tailwind for styling and Flowbite for components, integrated with Decap CMS to manage content.  
 
 ## Quick deploy
 
