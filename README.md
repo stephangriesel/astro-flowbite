@@ -4,7 +4,8 @@ Astro framework with Tailwind for styling and Flowbite for components, integrate
 
 ## Quick deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)][deploy]
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/stephangriesel/astro-flowbite)
+
 
 Once set up, activate Netlify Identity. See [docs](https://docs.netlify.com/visitor-access/identity/)
 
