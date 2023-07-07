@@ -17,3 +17,7 @@ Once set up, activate Netlify Identity. See [docs](https://docs.netlify.com/visi
 | `pnpm run dev`     | Starts local dev & Netlify CMS proxy servers       |
 | `pnpm run build`   | Build your production site to `./dist/`            |
 | `pnpm run preview` | Serve `./dist/` & run the Netlify CMS proxy server |  
+
+## Credits
+
+[Chris Swithinbank](https://github.com/delucis) for the inspiration 
